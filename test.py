@@ -1,3 +1,3 @@
 print("vvce")
-print("computer science")
+print("computer science engineering")
 print("b sec")
